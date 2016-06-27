@@ -8,6 +8,7 @@
 Apple LLVM version 8.0.0 (clang-800.0.24.1)
 Target: x86_64-apple-darwin15.5.0
 Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
 
 === Xcode 7.3.1 ===
  * '''Xcode'’': 7D1014
